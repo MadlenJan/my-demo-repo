@@ -13,14 +13,14 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 ## REPO LIST
 | # Name                  |                                                                       Topics                                                                |
 | ----------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)|
-| IT_School-Projects      |[(HTML, CSS, JavaScript)Weekly Projects](./Clarusway_IT_School-Projects)                                                                     |
-| IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](./Clarusway_IT_School-Codding_Challenges)                                                          |
-| HackerRank              |[HackerRank Preperation Problems](./HackerRank)                                                                                              |
-| IBM-Web-Development     |[IBM Website Project](./IBM---Web-Development-Course)                                                                                        |
-| Project-based_Course    |[Portfolio Website](./Coursera_Project-based_Course_Website)                                                                                 |
-| github-final-project    |[(HTML, CSS, JavaScript)IBM Project](./github-final-project)                                                                                 |
-| Duke_Uni-Project        |[JavaScript-HTML-CSS Project](./Duke_Uni---JavaScript-HTML-CSS)                                                                              |
-| Java with Intelij-Idea  |[Fundamentals of Java](./Java-Course-in-Intelij-Idea-Projects)                                                                               |
-| Python_yakinkampus      |[Fundamentals of Python](./Python_yakinkampus)                                                                                               |
-| Basics-of-JavaScript-01 |[Fundamentals of JavaScript](./Basics-of-JavaScript-01)                                                                                      |
+| IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)                                              |
+| IT_School-Projects      |[(HTML, CSS, JavaScript)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                                            |
+| IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](https://github.com/i-bilge/Clarusway_IT_School-Codding_Challenges)                                 |
+| HackerRank              |[HackerRank Preperation Problems](https://github.com/i-bilge/HackerRank)                                                                     |
+| IBM-Web-Development     |[IBM Website Project](https://github.com/i-bilge/IBM---Web-Development-Course)                                                               |
+| Project-based_Course    |[Portfolio Website](https://github.com/i-bilge/Coursera_Project-based_Course_Website)                                                        |
+| github-final-project    |[(HTML, CSS, JavaScript)IBM Project](https://github.com/i-bilge/github-final-project)                                                        |
+| Duke_Uni-Project        |[JavaScript-HTML-CSS Project](https://github.com/i-bilge/Duke_Uni---JavaScript-HTML-CSS)                                                     |
+| Java with Intelij-Idea  |[Fundamentals of Java](https://github.com/i-bilge/Java-Course-in-Intelij-Idea-Projects)                                                      |
+| Python_yakinkampus      |[Fundamentals of Python](https://github.com/i-bilge/Python_yakinkampus)                                                                      |
+| Basics-of-JavaScript-01 |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                             |
