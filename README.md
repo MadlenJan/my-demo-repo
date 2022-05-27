@@ -3,7 +3,7 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 
 ## SKILLS & TOOLS
 
-![HTML5](images\icons8-html-64.png)
+![HTML5](./images/icons8-html-64.png)
 ![CSS3](images\icons8-css-64.png)
 ![JavaScript](images\icons8-javascript-48.png)
 ![Git](images\icons8-git-48.png)
