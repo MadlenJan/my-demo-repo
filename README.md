@@ -4,18 +4,18 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 ## SKILLS & TOOLS
 
 ![HTML5](./images/icons8-html-64.png)
-![CSS3](images\icons8-css-64.png)
-![JavaScript](images\icons8-javascript-48.png)
-![Git](images\icons8-git-48.png)
-![VSCode](images\7417366_vs code_visual studio code_logo_code_icon.png)
-![Python](images\icons8-python-48.png)
-![java](images\icons8-java-48.png)
+![CSS3](./images/icons8-css-64.png)
+![JavaScript](./images/icons8-javascript-48.png)
+![Git](./images/icons8-git-48.png)
+![VSCode](./images/7417366_vs%20code_visual%20studio%20code_logo_code_icon.png)
+![Python](./images/icons8-python-48.png)
+![java](./images/icons8-java-48.png)
 
 
 ## CERTIFICATIONS
 
-<a href="https://www.hackerrank.com/certificates/334ebd496eef" target="_blank">![Python](images\Py HR.PNG)</a>
-<a href="https://www.hackerrank.com/certificates/743852a5bd72" target="_blank">![SQL](images\SQL HR.PNG)</a>
+<a href="https://www.hackerrank.com/certificates/334ebd496eef" target="_blank">![Python](./images/Py%20HR.PNG)</a>
+<a href="https://www.hackerrank.com/certificates/743852a5bd72" target="_blank">![SQL](./images/SQL%20HR.PNG)</a>
 
 
 ## REPO LIST
