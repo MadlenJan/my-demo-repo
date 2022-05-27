@@ -13,7 +13,7 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 ## REPO LIST
 | # Name                  |                                                                       Topics                                                                |
 | ----------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| IT_School-Study         |[Fullstack Fulltime Course]([./Clarusway_IT_School---FS-DE-02-EN-Study](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study.git))                                                                       |
+| IT_School-Study         |[Fullstack Fulltime Course]([./Clarusway_IT_School---FS-DE-02-EN-Study]([README.md](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study))                                                                       |
 | IT_School-Projects      |[(HTML, CSS, JavaScript)Weekly Projects](./Clarusway_IT_School-Projects)                                                                     |
 | IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](./Clarusway_IT_School-Codding_Challenges)                                                          |
 | HackerRank              |[HackerRank Preperation Problems](./HackerRank)                                                                                              |
