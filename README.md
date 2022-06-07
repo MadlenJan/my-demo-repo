@@ -8,6 +8,7 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 
 <a href="https://www.hackerrank.com/certificates/334ebd496eef" target="_blank">![Python](./images/Py%20HR.PNG)</a>
 <a href="https://www.hackerrank.com/certificates/743852a5bd72" target="_blank">![SQL](./images/SQL%20HR.PNG)</a>
+<a href="https://www.credly.com/badges/cca372f0-4714-4ad5-9c30-890361c1b432/public_url" target="_blank">![IBM Web](./images/web-development-with-html-css-javascript-essentials.png)</a>
 
 
 ## REPO LIST
