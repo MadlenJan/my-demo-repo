@@ -12,7 +12,7 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 
 
 ## REPO LIST
-| # Name                  |                                                    Topics                                                  |#GOOD TO FIND EASIES          |
+| # Name                  |                                                    Topics                                                  | GOOD TO FIND EASIES          |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)             | [Survey-Form-Netflix](https://github.com/i-bilge/Survey-Form-Netflix)   |
 | IT_School-Projects      |[(HTML, CSS, JavaScript)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)           | [Parallax-Website](https://github.com/i-bilge/Parallax-Website)      |
