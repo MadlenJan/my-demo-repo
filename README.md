@@ -27,8 +27,7 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 | Basics-of-JavaScript-01 |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                           |
 
 
-## 
-| :-------------------------------------GOOD TO FIND EASY-----------------------------------------------------------------------------------------------------------: |
+## GOOD TO FIND EASY
 | [Survey-Form-Netflix](https://github.com/i-bilge/Survey-Form-Netflix)                                                                                               |
 | [Parallax-Website](https://github.com/i-bilge/Parallax-Website)                                                                                                     |
 | [Basic-Calculator](https://github.com/i-bilge/Basic-Calculator)                                                                                                     |
