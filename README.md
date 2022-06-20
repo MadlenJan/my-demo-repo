@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://i-bilge.github.io/My-Portfolio/" target="_blank">Ismail</a></h1>
+<h1 align="center">Hi, I'm <a href="https://i-bilge.github.io/Ismail-Bilge/" target="_blank">Ismail</a></h1>
 This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, and some other topics. I am trying to improve myself. And at the same time I am adding my projects here to reach them when i need, and also maybe they can be helpful for others.
 
 ## SKILLS & TOOLS
