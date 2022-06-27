@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hi, I'm <a href="https://i-bilge.github.io/My-Portfolio/" target="_blank">Ismail</a></h1>
 This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library, Python, Python Libraries, and some other topics of Programm Development. I love to be and improve myself in this field. And at the same time I am adding my projects here to reach them when i need, and also maybe they can be helpful for others.
 
