@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm <a href="https://i-bilge.github.io/My-Portfolio/" target="_blank">Ismail</a></h1>
-This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, and some other topics. I am trying to improve myself. And at the same time I am adding my projects here to reach them when i need, and also maybe they can be helpful for others.
+This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library, Python, Python Libraries, and some other topics of Programm Development. I love to be and improve myself in this field. And at the same time I am adding my projects here to reach them when i need, and also maybe they can be helpful for others.
 
 ## SKILLS & TOOLS
-<img src="./images/icons8-html-5-48.png" alt="HTML5" style="width:50px;"/> <img src="./images/icons8-css3-48.png" alt="CSS3" style="width:50px;"/> <img src="./images/icons8-javascript-48.png" alt="JavaScript" style="width:50px;"/> <img src="./images/icons8-bootstrap-48.png" alt="Bootstrap" style="width:50px;"/> <img src="./images/icons8-git-48.png" alt="Git" style="width:50px;"/> <img src="./images/7417366_vs%20code_visual%20studio%20code_logo_code_icon.png" alt="VSCode" style="width:50px;"/> <img src="./images/icons8-python-48.png" alt="Python" style="width:50px;"/> <img src="./images/icons8-java-48.png" alt="java" style="width:50px;"/>
+<img src="./images/icons8-html-5-48.png" alt="HTML5" style="width:50px;"/> <img src="./images/icons8-css3-48.png" alt="CSS3" style="width:50px;"/> <img src="./images/icons8-javascript-48.png" alt="JavaScript" style="width:50px;"/> <img src="./images/icons8-react-50.png" alt="React" style="width:50px;"/> <img src="./images/icons8-nodejs-48.png" alt="Node.js" style="width:50px;"/> <img src="./images/icons8-bootstrap-48.png" alt="Bootstrap" style="width:50px;"/> <img src="./images/icons8-postman-48.png" alt="Postman" style="width:50px;"/> <img src="./images/icons8-git-48.png" alt="Git" style="width:50px;"/> <img src="./images/7417366_vs%20code_visual%20studio%20code_logo_code_icon.png" alt="VSCode" style="width:50px;"/> <img src="./images/icons8-python-48.png" alt="Python" style="width:50px;"/> <img src="./images/icons8-java-48.png" alt="java" style="width:50px;"/> <img src="./images/icons8-sigma-48.png" alt="6SigmaLean" style="width:50px;"/><img src="./images/icons8-spss-50.png" alt="SPSS" style="width:50px;"/>
 
 ## CERTIFICATIONS
+
 
 <a href="https://www.hackerrank.com/certificates/493033f61fbb" target="_blank">![Java](./images/Java%20HR.png)</a>
 <a href="https://www.hackerrank.com/certificates/334ebd496eef" target="_blank">![Python](./images/Py%20HR.PNG)</a>
@@ -16,9 +17,9 @@ This is my GitHub page, has materials about HTML, CSS, JS, React, Python, Python
 | # Name                  |                                                    Topics                                                                                 |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)                                            |
-| IT_School-Projects      |[(HTML, CSS, JavaScript)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                                          |
+| IT_School-Projects      |[(HTML, CSS, JavaScript, Bootstrap5, React.js)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                                          |
 | IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](https://github.com/i-bilge/Clarusway_IT_School-Codding_Challenges)                               |
-| HackerRank              |[HackerRank Preperation Problems](https://github.com/i-bilge/HackerRank)                                                                   |
+| HackerRank              |[(Python, Javascript)HackerRank Preperation Problems](https://github.com/i-bilge/HackerRank)                                                                   |
 | IBM-Web-Development     |[IBM Website Project](https://github.com/i-bilge/IBM---Web-Development-Course)                                                             |
 | Project-based_Course    |[Portfolio Website](https://github.com/i-bilge/Coursera_Project-based_Course_Website)                                                      |
 | github-final-project    |[(HTML, CSS, JavaScript)IBM Project](https://github.com/i-bilge/github-final-project)                                                      |
