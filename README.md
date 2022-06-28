@@ -35,3 +35,5 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 | [Basic-Calculator](https://github.com/i-bilge/Basic-Calculator)                                                                                                     |
 | [Countdown-Timer](https://github.com/i-bilge/JS-Countdown-Timer)                                                                                                    |
 | [Score-Keeper](https://github.com/i-bilge/Ping-Pong-Score-Keeper)                                                                                                   |
+| [WeatherApp](https://github.com/i-bilge/Weather-App)                                                                                                                |
+| [LearnWorldApp](https://github.com/i-bilge/Learning-Countries-App)                                                                                                  |
