@@ -17,9 +17,9 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 | # Name                  |                                                    Topics                                                                                 |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)                                            |
-| IT_School-Projects      |[(HTML, CSS, JavaScript, Bootstrap5, React.js)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                                          |
+| IT_School-Projects      |[(HTML, CSS, JavaScript, Bootstrap5, React.js)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                    |
 | IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](https://github.com/i-bilge/Clarusway_IT_School-Codding_Challenges)                               |
-| HackerRank              |[(Python, Javascript)HackerRank Preperation Problems](https://github.com/i-bilge/HackerRank)                                                                   |
+| HackerRank              |[(Python, Javascript)HackerRank Preperation Problems](https://github.com/i-bilge/HackerRank)                                               |
 | IBM-Web-Development     |[IBM Website Project](https://github.com/i-bilge/IBM---Web-Development-Course)                                                             |
 | Project-based_Course    |[Portfolio Website](https://github.com/i-bilge/Coursera_Project-based_Course_Website)                                                      |
 | github-final-project    |[(HTML, CSS, JavaScript)IBM Project](https://github.com/i-bilge/github-final-project)                                                      |
