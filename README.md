@@ -16,6 +16,8 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 ## REPO LIST
 | # Name                  |                                                    Topics                                                                                 |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| Indian-Restaurant-App   |[Basics of React,Styled with Sass](https://github.com/i-bilge/Indian-Restaurant-App)                                                       |
+| Travel App              |[Tour Website-created with React and styled with Sass/Scss](https://github.com/i-bilge/travel-app)                                         |
 | IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)                                            |
 | IT_School-Projects      |[(HTML, CSS, JavaScript, Bootstrap5, React.js)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                    |
 | IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](https://github.com/i-bilge/Clarusway_IT_School-Codding_Challenges)                               |
