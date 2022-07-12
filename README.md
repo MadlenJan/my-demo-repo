@@ -26,7 +26,7 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 | Project-based_Course    |[Portfolio Website](https://github.com/i-bilge/Coursera_Project-based_Course_Website)                                                      |
 | React/The-Hong-Kong-University|[React Course](https://github.com/i-bilge/React---The-Hong-Kong-University-of-Science-)                                              |
 | Sass-Scss-Basics        |[Sass styled login page](https://github.com/i-bilge/Sass-Scss-Basics)                                                   |
-| Basics-of-JavaScript-01 |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                           |
+| Basics-of-JavaScript |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                           |
 | Java with Intelij-Idea  |[Fundamentals of Java](https://github.com/i-bilge/Java-Course-in-Intelij-Idea-Projects)                                                    |
 | Python_yakinkampus      |[Fundamentals of Python](https://github.com/i-bilge/Python_yakinkampus)                                                                    |
 
