@@ -17,7 +17,9 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 | # Name                  |                                                    Topics                                                                                 |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | Indian-Restaurant-App   |[Basics of React,Styled with Sass](https://github.com/i-bilge/Indian-Restaurant-App)                                                       |
+| recipe-app-etit         |[React application, which is working with API from EDAMAM](https://github.com/i-bilge/recipe-app-etit)                                     |
 | Travel App              |[Tour Website-created with React and styled with Sass/Scss](https://github.com/i-bilge/travel-app)                                         |
+| find-movie-app          |[React.js along with Router and Hooks of React and themoviedb API](https://github.com/i-bilge/find-movie-app)                              |
 | IT_School-Study         |[Fullstack Fulltime Course](https://github.com/i-bilge/Clarusway_IT_School---FS-DE-02-EN-Study)                                            |
 | IT_School-Projects      |[(HTML, CSS, JavaScript, Bootstrap5, React.js)Weekly Projects](https://github.com/i-bilge/Clarusway_IT_School-Projects)                    |
 | IT_School-Challenges    |[(HTML, CSS, JavaScript)Codding Problems](https://github.com/i-bilge/Clarusway_IT_School-Codding_Challenges)                               |
@@ -25,14 +27,14 @@ This is my GitHub page, has materials about HTML, CSS, JavaScript, React Library
 | IBM-Web-Development     |[IBM Website Project](https://github.com/i-bilge/IBM---Web-Development-Course)                                                             |
 | Project-based_Course    |[Portfolio Website](https://github.com/i-bilge/Coursera_Project-based_Course_Website)                                                      |
 | React/The-Hong-Kong-University|[React Course](https://github.com/i-bilge/React---The-Hong-Kong-University-of-Science-)                                              |
-| Sass-Scss-Basics        |[Sass styled login page](https://github.com/i-bilge/Sass-Scss-Basics)                                                   |
-| Basics-of-JavaScript |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                           |
+| Sass-Scss-Basics        |[Sass styled login page](https://github.com/i-bilge/Sass-Scss-Basics)                                                                      |
+| Basics-of-JavaScript    |[Fundamentals of JavaScript](https://github.com/i-bilge/Basics-of-JavaScript-01)                                                           |
 | Java with Intelij-Idea  |[Fundamentals of Java](https://github.com/i-bilge/Java-Course-in-Intelij-Idea-Projects)                                                    |
 | Python_yakinkampus      |[Fundamentals of Python](https://github.com/i-bilge/Python_yakinkampus)                                                                    |
 
 
 ## GOOD TO FIND EASY
-| [Survey-Form-Netflix](https://github.com/i-bilge/Survey-Form-Netflix)                                                                                               |
+| [Form-elements-in-react](https://github.com/i-bilge/form-elements-in-react)                                                                                         |
 | [Parallax-Website](https://github.com/i-bilge/Parallax-Website)                                                                                                     |
 | [Basic-Calculator](https://github.com/i-bilge/Basic-Calculator)                                                                                                     |
 | [Countdown-Timer](https://github.com/i-bilge/JS-Countdown-Timer)                                                                                                    |
